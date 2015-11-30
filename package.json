@@ -1,5 +1,5 @@
 {
-  "name": "gwidgettabs",
+  "name": "widget-tabs",
   "version": "1.0.0",
   "description": "A single content area with multiple panels, each associated with a tabs in a list.",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tigerjohn/gWidgetTabs.git"
+    "url": "git+https://github.com/tigerjohn/widget-tabs.git"
   },
   "author": "Maxim Martienco",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tigerjohn/gWidgetTabs/issues"
+    "url": "https://github.com/tigerjohn/widget-tabs/issues"
   },
-  "homepage": "https://github.com/tigerjohn/gWidgetTabs#readme",
+  "homepage": "https://github.com/tigerjohn/widget-tabs#readme",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.1.0",
