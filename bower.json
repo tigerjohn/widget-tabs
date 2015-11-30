@@ -1,0 +1,24 @@
+{
+  "name": "gWidgetTabs",
+  "description": "A single content area with multiple panels, each associated with a tabs in a list.",
+  "main": "index.js",
+  "authors": [
+    "Maxim Martienco"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tigerjohn/gWidgetTabs",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
