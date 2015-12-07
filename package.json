@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "description": "A single content area with multiple panels, each associated with a tabs in a list.",
   "main": "index.js",
-  "files": ["dist","src","*.json","*.js"],
+  "files": [
+    "dist",
+    "src",
+    "*.json",
+    "*.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +23,7 @@
   },
   "homepage": "https://github.com/tigerjohn/widget-tabs#readme",
   "devDependencies": {
+    "browser-sync": "^2.10.0",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-concat": "^2.6.0",
